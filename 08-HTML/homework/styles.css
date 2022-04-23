@@ -1,0 +1,26 @@
+
+        h1 {
+            color: red;
+        }
+
+        img {
+            width: 400px;
+            border-style: dashed;color: blueviolet; width: 400px;
+        }
+        li{
+            padding-bottom: 8px;
+        }
+
+        #thirdDiv {
+            width: 500px;
+            height: 800px;
+            background-color: black; 
+            padding: 50px;
+            border-style: dotted; color: blueviolet; width: 500px;
+        }
+
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+        }
+    
